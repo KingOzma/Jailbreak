@@ -1,5 +1,5 @@
 # Jailbreak
-A breakout clone
+A breakout clone - CS50
 
 What I learned:<br>
 -How to implement spirite sheets.<br>
