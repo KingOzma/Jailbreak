@@ -1,5 +1,5 @@
 # Jailbreak
-A breakout clone - CS50<br>
+A breakout clone - CS50: Game Development<br>
 https://imgur.com/a/KYexV5a
 
 What I learned:<br>
